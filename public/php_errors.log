@@ -1,0 +1,2 @@
+[24-Apr-2015 12:47:24 UTC] PHP Parse error:  syntax error, unexpected 'js' (T_STRING) in C:\Bitnami\wampstack-5.4.37-0\apache2\htdocs\bhushangavhale\storage\framework\views\264c986ab22d9a7cda2c643b0f0a5221 on line 11
+[24-Apr-2015 12:48:00 UTC] PHP Parse error:  syntax error, unexpected '')); ?>"></script>' (T_CONSTANT_ENCAPSED_STRING) in C:\Bitnami\wampstack-5.4.37-0\apache2\htdocs\bhushangavhale\storage\framework\views\264c986ab22d9a7cda2c643b0f0a5221 on line 12
