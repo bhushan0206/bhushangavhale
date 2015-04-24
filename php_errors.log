@@ -1,0 +1,1 @@
+[24-Apr-2015 12:04:27 UTC] PHP Fatal error:  Call to undefined method Illuminate\Foundation\Application::getCachedCompilePath() in C:\Bitnami\wampstack-5.4.37-0\apache2\htdocs\bhushangavhale\vendor\laravel\framework\src\Illuminate\Foundation\Console\ClearCompiledCommand.php on line 28
